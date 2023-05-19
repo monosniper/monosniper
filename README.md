@@ -6,12 +6,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Jost&weight=600&size=30&duration=1000&pause=1000&color=15F7B8&background=15151500&center=true&vCenter=true&repeat=false&width=435&lines=%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82!%F0%9F%91%8B;%D0%9C%D0%B5%D0%BD%D1%8F+%D0%B7%D0%BE%D0%B2%D1%83%D1%82+%D0%A0%D0%B0%D0%B2%D0%B8%D0%BB%D1%8C;%D0%A0%D0%B0%D0%B4+%D0%B2%D0%B0%D1%81+%D1%82%D1%83%D1%82+%D0%B2%D0%B8%D0%B4%D0%B5%D1%82%D1%8C!">
 </a>
 </h1>
-
+<!-- 
 <h5 align="center">
 <code><a href="https://www.instagram.com/ravilto/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
 <code><a href="https://ravilto.t.me" title="Telegram"><img width="22" src="images/telegram.svg"> Telegram</a></code>
-</h5>
-<br>
+</h5> -->
+
 <!-- <p align="center">
 Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey
 <br>
@@ -31,8 +31,8 @@ Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Develop
 📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>
 </p> -->
 
-<hr>
-<h2 align="center">🔥 Technical Skills 🔥</h2>
+
+<h3 align="center">🔥 Technical Skills 🔥</h2>
 <br>
 <p>
 <img title="HTML" height="25" src="https://img.shields.io/badge/language-HTML-brightgreen?style=for-the-badge&logo=html5&logoColor=white">
@@ -67,6 +67,13 @@ Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Develop
 </p>
 
 <hr>
+
+<h3>🤝 Connect with me</h2>
+  <a href="https://www.instagram.com/ravilto/"><img align="left" src="images/instagram.svg" alt="Instagram" width="40px"/></a>
+  <a href="https://ravilto.t.me"><img align="left" src="images/telegram.svg" alt="Telegram" width="40px"/></a>
+
+<br>
+<br>
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
