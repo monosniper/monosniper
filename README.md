@@ -63,7 +63,7 @@ Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Develop
   <br>
   <br>
   
-  <img title="Javascript" height="25" src="https://img.shields.io/badge/ability-Problem Solving-brightgreen?style=for-the-badge">
+  <img title="English" height="25" src="https://img.shields.io/badge/English-A2-brightgreen?style=for-the-badge">
 </p>
 
 <hr>
