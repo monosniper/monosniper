@@ -70,7 +70,7 @@ Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Develop
 
 <h3>🤝 Connect with me</h2>
   <a href="https://www.instagram.com/ravilto/"><img align="left" src="images/instagram.svg" alt="Instagram" width="40px"/></a>
-  <a href="https://ravilto.t.me"><img align="left" src="images/telegram.svg" alt="Telegram" width="40px"/></a>
+  <a href="https://no_fuhrer_around.t.me"><img align="left" src="images/telegram.svg" alt="Telegram" width="40px"/></a>
 
 <br>
 <br>
