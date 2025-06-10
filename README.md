@@ -37,7 +37,7 @@
 <img title="PHP" height="25" src="https://img.shields.io/badge/language-PHP-brightgreen?style=for-the-badge&logo=php&logoColor=white">
 <img title="Laravel" height="25" src="https://img.shields.io/badge/framework-Laravel-brightgreen?style=for-the-badge&logo=laravel&logoColor=white">
 <img title="MYSQL" height="25" src="https://img.shields.io/badge/technology-mysql-brightgreen?style=for-the-badge&logo=mysql&logoColor=white">
-<img title="REDIS" height="25" src="https://img.shields.io/badge/Redis-%23DD0031.svg?logo=redis&logoColor=white">
+<img title="REDIS" height="25" src="https://img.shields.io/badge/technology-redis-brightgreen?style=for-the-badge&logo=redis&logoColor=white">
 <!--</p>-->
 <!--<hr>-->
 
