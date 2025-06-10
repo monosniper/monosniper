@@ -1,5 +1,4 @@
-иееее бля
-<!--<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=monosniper.monosniper">-->
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=monosniper.monosniper">
 
 <!--<h1 align="center">-->
 <!--<a href="https://git.io/typing-svg">-->
@@ -10,7 +9,7 @@
 <!--<h5 align="center">-->
 <!--<code><a href="https://www.instagram.com/ravilto/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>-->
 <!--<code><a href="https://ravilto.t.me" title="Telegram"><img width="22" src="images/telegram.svg"> Telegram</a></code>-->
-<!--</h5> -->-->
+<!--</h5> -->
 
 <!-- <p align="center">
 <!--Hi, I'm Osman DURDAĞ, Research Assistant & Computer Engineer & Software Developer from Turkey-->
@@ -29,41 +28,16 @@
 <!--💬 Ask me anything about from <a href="https://github.com/monosniper/monosniper/issues" title="Issues">Here</a>-->
 <!--<br>-->
 <!--📫 How to reach me: <a href="mailto: osmandurdag@hotmail.com">osmandurdag@hotmail.com</a>-->
-<!--</p> -->-->
+<!--</p> -->
 
 
 <!--<h3 align="center">🔥 Technical Skills 🔥</h2>-->
 <!--<br>-->
 <!--<p>-->
-<!--<img title="HTML" height="25" src="https://img.shields.io/badge/language-HTML-brightgreen?style=for-the-badge&logo=html5&logoColor=white">-->
-<!--<img title="CSS" height="25" src="https://img.shields.io/badge/language-CSS-brightgreen?style=for-the-badge&logo=css3&logoColor=white">-->
-<!--<img title="Javascript" height="25" src="https://img.shields.io/badge/language-Javascript-brightgreen?style=for-the-badge&logo=javascript&logoColor=white">-->
-<!--<img title="PHP" height="25" src="https://img.shields.io/badge/language-PHP-brightgreen?style=for-the-badge&logo=php&logoColor=white">-->
-  
-<!--  <br>-->
-<!--  <br>-->
-  
-<!--  <img title="Laravel" height="25" src="https://img.shields.io/badge/framework-Laravel-brightgreen?style=for-the-badge&logo=laravel&logoColor=white">-->
-<!--  <img title="Node JS" height="25" src="https://img.shields.io/badge/framework-node js-brightgreen?style=for-the-badge&logo=node.js&logoColor=white">-->
-<!--  <img title="React JS" height="25" src="https://img.shields.io/badge/framework-REACT-brightgreen?style=for-the-badge&logo=react&logoColor=white">-->
-<!--  <img title="SASS" height="25" src="https://img.shields.io/badge/framework-sass-brightgreen?style=for-the-badge&logo=sass&logoColor=white">-->
-  
-<!--  <br>-->
-<!--  <br>-->
-  
-<!--  <img title="MYSQL" height="25" src="https://img.shields.io/badge/technology-mysql-brightgreen?style=for-the-badge&logo=mysql&logoColor=white">-->
-<!--  <img title="MongoDB" height="25" src="https://img.shields.io/badge/technology-MongoDB-brightgreen?style=for-the-badge&logo=mongodb&logoColor=white">-->
-<!--  <img title="Sequelize" height="25" src="https://img.shields.io/badge/technology-Sequelize-brightgreen?style=for-the-badge&logo=sequelize&logoColor=white">-->
-<!--  <img title="Mongoose" height="25" src="https://img.shields.io/badge/technology-Mongoose-brightgreen?style=for-the-badge&logo=mongoose&logoColor=white">-->
-  
-  
-<!--  <img title="Mobx" height="25" src="https://img.shields.io/badge/technology-Mobx-brightgreen?style=for-the-badge&logo=mobx&logoColor=white">-->
-<!--  <img title="NPM" height="25" src="https://img.shields.io/badge/technology-NPM-brightgreen?style=for-the-badge&logo=npm&logoColor=white">-->
-  
-<!--  <br>-->
-<!--  <br>-->
-  
-<!--  <img title="English" height="25" src="https://img.shields.io/badge/English-A2-brightgreen?style=for-the-badge">-->
+<img title="PHP" height="25" src="https://img.shields.io/badge/language-PHP-brightgreen?style=for-the-badge&logo=php&logoColor=white">
+<img title="Laravel" height="25" src="https://img.shields.io/badge/framework-Laravel-brightgreen?style=for-the-badge&logo=laravel&logoColor=white">
+<img title="MYSQL" height="25" src="https://img.shields.io/badge/technology-mysql-brightgreen?style=for-the-badge&logo=mysql&logoColor=white">
+<img title="REDIS" height="25" src="https://img.shields.io/badge/technology-mysql-brightgreen?style=for-the-badge&logo=mysql&logoColor=white">
 <!--</p>-->
 
 <!--<hr>-->
@@ -71,7 +45,6 @@
 <!--<h3>🤝 Connect with me</h2>-->
 <!--  <a href="https://www.instagram.com/ravilto/"><img align="left" src="images/instagram.svg" alt="Instagram" width="40px"/></a>-->
 <!--  <a href="https://no_fuhrer_around.t.me"><img align="left" src="images/telegram.svg" alt="Telegram" width="40px"/></a>-->
-
 <!--<br>-->
 <!--<br>-->
 
@@ -124,4 +97,4 @@
 
 <!--<h4 align="center">-->
 <!--<a href="https://github.com/monosniper?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>-->
-<!--</h4> -->-->
+<!--</h4> -->
